@@ -31,3 +31,5 @@ simple intrest
 employee income tax
 
 number pattern
+
+print a number
