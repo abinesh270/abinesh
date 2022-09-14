@@ -29,3 +29,5 @@ panindrome
 simple intrest
 
 employee income tax
+
+number pattern
