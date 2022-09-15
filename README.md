@@ -38,3 +38,4 @@ print char number
 
 single inheritance
 
+class pay and net pay of employee
