@@ -33,3 +33,5 @@ employee income tax
 number pattern
 
 print a number
+
+print char number
