@@ -39,3 +39,5 @@ print char number
 single inheritance
 
 class pay and net pay of employee
+
+sum and product using single inheritance
