@@ -34,6 +34,8 @@ number pattern
 
 print a number
 
+student acccount developer
+
 print char number
 
 single inheritance
